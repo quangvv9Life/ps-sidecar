@@ -10,3 +10,4 @@ Simple HTML config used for K8s sidecar demos
 - The Kubernetes Book (2021 and 2022 editions)
 
 Update to check sidecar pod in action
+Update again
