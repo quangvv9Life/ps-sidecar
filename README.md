@@ -12,3 +12,4 @@ Simple HTML config used for K8s sidecar demos
 Update to check sidecar pod in action
 Update again
 Update again and again and again
+kubectl logs <pod_name> <container>
